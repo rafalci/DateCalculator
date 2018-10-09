@@ -1,0 +1,7 @@
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.config
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\bin\Debug\DateCalculator.pdb
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csprojAssemblyReference.cache
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\obj\Debug\DateCalculator.exe
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculator\obj\Debug\DateCalculator.pdb

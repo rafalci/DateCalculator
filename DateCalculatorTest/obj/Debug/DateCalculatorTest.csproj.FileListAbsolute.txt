@@ -1,0 +1,17 @@
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\DateCalculatorTest.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\DateCalculatorTest.pdb
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\DateCalculator.exe
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\DateCalculator.pdb
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\DateCalculator.exe.config
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\obj\Debug\DateCalculatorTest.csprojAssemblyReference.cache
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\obj\Debug\DateCalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\obj\Debug\DateCalculatorTest.csproj.CopyComplete
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\obj\Debug\DateCalculatorTest.dll
+C:\Users\rciesla\source\repos\DateCalculator\DateCalculatorTest\obj\Debug\DateCalculatorTest.pdb
